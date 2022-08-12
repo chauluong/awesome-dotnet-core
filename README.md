@@ -9,7 +9,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
 
 ## Contents
-[![Anurag's GitHub stats](https://github.com/Azure/autorest/api?username=chauluong)](https://github.com/Azure/autorest)
+
 * [General](#general)
 * [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
   * [API](#api)
@@ -85,7 +85,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 
 ### API
 
-* [autorest](https://github.com/Azure/autorest/api?username=chauluong) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
+* [autorest](https://github.com/Azure/autorest/api) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 * [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
