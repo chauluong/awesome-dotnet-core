@@ -9,7 +9,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
 
 ## Contents
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chauluong)](https://github.com/anuraghazra/github-readme-stats)
 * [General](#general)
 * [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
   * [API](#api)
